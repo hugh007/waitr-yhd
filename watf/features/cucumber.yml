@@ -1,2 +1,0 @@
-default: --format html --out report.html --format pretty --no-source
-focus: --format html --out report.html --format pretty --no-source --tag @FOCUS

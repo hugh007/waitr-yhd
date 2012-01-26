@@ -1,1 +1,0 @@
-jirb -r console.rb

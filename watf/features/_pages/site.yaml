@@ -1,9 +1,0 @@
---- !ruby/object:WATF::Site 
-page_map: 
-  "首页": HomePage
-  "登录页": LoginPage
-  "注册页": RegisterPage
-  "订单列表页": MyOrderPage
-
-title: "一号店"
-domain: www.yihaodian.com
